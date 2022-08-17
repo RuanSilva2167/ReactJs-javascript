@@ -1,0 +1,10 @@
+.fraseConteiner{
+background-color: rgb(97, 96, 96);
+border: 1px solid rgb(94, 88, 88);
+}
+
+.fraseContent {
+    color: aliceblue;
+    background-color:#333;
+    margin: 0;
+}
